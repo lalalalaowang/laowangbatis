@@ -27,6 +27,12 @@
     </environments>
 
     <mappers>
-        <mapper resource="com/laowang/simple/mapper/CountryMapper.xml"/>
+<!--        <mapper resource="com/laowang/simple/mapper/CountryMapper.xml"/>-->
+<!--        <mapper resource="com/laowang/simple/mapper/UserMapper.xml"/>-->
+<!--        <mapper resource="com/laowang/simple/mapper/RoleMapper.xml"/>-->
+<!--        <mapper resource="com/laowang/simple/mapper/PrivilegeMapper.xml"/>-->
+<!--        <mapper resource="com/laowang/simple/mapper/UserRoleMapper.xml"/>-->
+<!--        <mapper resource="com/laowang/simple/mapper/RolePrivilegeMapper.xml"/>-->
+        <package name="com.laowang.simple.mapper"/>
     </mappers>
 </configuration>
